@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in Final Year Of Artifitial Intelligence and Machine Learning
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development** and **Java Language**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
